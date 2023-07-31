@@ -1,6 +1,7 @@
 # ProyectoARQUITECTURA
 
 *DOCUMENTACION PARA LA CREACIÓN DE UN NUEVO PROYECTO*
+
                 /*Desde la terminal*/
 
 1) Genere un repositorio nuevo con el Proyecto
